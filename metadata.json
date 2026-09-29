@@ -1,0 +1,6 @@
+{
+  "name": "Google Site Publisher – AI SEO & Search Console Hub",
+  "description": "Publish, index, and rank websites on Google with automated sitemaps, robots.txt, Schema.org JSON-LD, SERP preview, and Google Search Console tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

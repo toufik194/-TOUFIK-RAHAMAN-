@@ -1,0 +1,19 @@
+# Robots.txt for Google Site Publisher & AI Suite
+# Official Domain: https://seo.toufik.raxzen.in
+
+User-agent: *
+Allow: /
+
+# Dedicated rules for Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Dedicated rules for Googlebot Images & Mobile
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+# XML Sitemap location for Google Search Console
+Sitemap: https://seo.toufik.raxzen.in/sitemap.xml
